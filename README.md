@@ -8,6 +8,6 @@ Thank InuYaksa. Nicescroll is a jquery plugin, for nice customizabled scrollbars
 Install with Meteor 0.9.0 and above:
 
 ```
-$ meteor add jacky:meteor-jquery-nicescroll
+$ meteor add jackyqiu:meteor-jquery-nicescroll
 ```
 
