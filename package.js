@@ -1,6 +1,6 @@
 Package.describe({
   name: "jackyqiu:meteor-jquery-nicescroll",
-  summary: "Thank InuYaksa. Nicescroll is a jquery plugin, for nice customizabled scrollbars with a very similar ios/mobile style. ",
+  summary: "Nicescroll is a jquery plugin, nice customizabled scrollbars with a very similar ios/mobile style.",
   version: "3.6.0",
   git: "https://github.com/qunxyz/meteor-jquery-nicescroll.git"
 });
