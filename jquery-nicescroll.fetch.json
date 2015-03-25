@@ -1,0 +1,11 @@
+[
+    {
+        "file": "jquery.nicescroll.min.js",
+        "url": "https://raw.githubusercontent.com/inuyaksa/jquery.nicescroll/master/jquery.nicescroll.min.js",
+        "bare": true
+    },
+    {
+        "file": "zoomico.png",
+        "url": "https://raw.githubusercontent.com/inuyaksa/jquery.nicescroll/master/dist/zoomico.png"
+    }
+]
